@@ -1,171 +1,54 @@
-<div>
-
-🔴🟡🟢
-
-<br>
-
-  
-
-</div>
-
- 
- 
-<div>
-
-  
-
-## 👨‍💻 &nbsp;About Me
-
-  
-
-- 📚 Computer Science student at UEPB.
-
-<!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
-
-  
-
-- 💻 I code for web and mobile📱.
-
-  
-
-- 🎛️ Love machines that beeps and boops.
-
-  
-
-- 💾 Old hardware enthusiast
-
-  
-
-<br>
-
-  
-
-</div>
-
-  
-
-  
-
 <div align="center">
-
+  <h1>Hi there, I'm Matheus de Oliveira! 👋</h1>
+  <h3>CS Graduate | AI Enthusiast | Web & Mobile Developer</h3>
   
-
-<br>
-
-  
-
-`¯\_(ツ)_/¯`
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F76C6C&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Computer+Science+Graduate+from+UEPB;Pursuing+Masters+in+AI+at+UFCG;Always+learning+new+technologies!" alt="Typing SVG" />
 </div>
 
-  
+---
 
-  
+### 👨‍💻 About Me:
+- 🎓 **CS Graduate** from [UEPB](https://www.uepb.edu.br).  
+- 🎓 Pursuing a **Master’s in Artificial Intelligence** at [UFCG](https://www.ufcg.edu.br).  
+- 💻 Skilled in **Web Development**, **Mobile Development**, and currently exploring **Machine Learning**.  
+- 🛠️ Passionate about old hardware, emulators, and everything cool tech.  
 
+---
+
+### 🛠️ Tech Stack:
 <div>
-
-  
-
-## 📚 &nbsp;Currently studying
-
-  
-
-- BackEnd with node
-
-- JetPack for android
-
-- VR development with Unity
-
-- Swift
-
-- MicroServices
-
-- TypeScript
-
-  
-
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 </div>
 
-  
+---
 
-  
+### 📈 My GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MatheusOliveiraCode&show_icons=true&theme=tokyonight" alt="Matheus' GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusOliveiraCode&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOliveiraCode&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
 
+---
+
+### 🌐 Connect with Me:
 <div>
-
-  
-
-## 🛠️ &nbsp;My Tech Stacks
-
-  
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
-
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)&nbsp;
-
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-&nbsp;
-
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-&nbsp;
-
-  
-
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/MatheusOliveiraCode" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
 
-  
+---
 
-  
-
-<div>
-
-  
-
-## 📊 &nbsp;My activities
-
-<a href="https://github.com/MatheusOliveiraCode">
-
-<img width=450 height=170 align="center" alt="MatheusOliveiraCode" src="https://github-readme-stats.vercel.app/api?username=MatheusOliveiraCode&theme=tokyonight&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
-
-</a>
-
-<a href="https://github.com/MatheusOliveiraCode">
-
-<img align="center" alt="MatheusOliveiraCode" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOliveiraCode&theme=tokyonight&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
-
-</a>
-
-</div>
-
-
-
-<!-- ## 📚 &nbsp;My Projects -->
+### 🔭 Fun Fact:
+- I'm fascinated by the intersection of **creativity** and **technology**!  
+- I like astronomy 🚀  
